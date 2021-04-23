@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'S-CoreDream-5';
+    src: url('/font/SCDream5.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'S-CoreDream-5';
+    src: url('/font/SCDream6.woff') format('woff');
+    font-weight: bold;
+    font-style: bold;
+}
